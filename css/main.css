@@ -3,7 +3,7 @@ html {
 }
 
 body {
-   /* background-image: url(../images/images3.jpg);*/
+    /* background-image: url(../images/images3.jpg);*/
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -222,14 +222,16 @@ header>.logo>img {
         width: 65px;
         height: 65px;
     }
+
     .login-form>.user-name,
     .login-form>.password {
         width: 40%;
     }
+
     .btn {
         padding: 1rem 4rem;
     }
-    
+
 }
 
 /* error */
@@ -254,6 +256,6 @@ header>.logo>img {
     transition: all 0.5s ease;
     color: #fff;
     margin-bottom: 2px;
-     width: 40%;
-    
+    width: 40%;
+
 }
